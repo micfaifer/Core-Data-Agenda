@@ -34,6 +34,7 @@
 		E76340D11F7C3AF60094C989 /* Contato+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Contato+CoreDataClass.swift"; sourceTree = "<group>"; };
 		E76340D21F7C3AF60094C989 /* Contato+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Contato+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		E76340D51F7C3F650094C989 /* DBManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBManager.swift; sourceTree = "<group>"; };
+		E7C6EB261F7D901E00D5A2C1 /* Model 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "Model 2.xcdatamodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -345,11 +346,13 @@
 		E76340CE1F7C38790094C989 /* Model.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
+				E7C6EB261F7D901E00D5A2C1 /* Model 2.xcdatamodel */,
 				E76340CF1F7C38790094C989 /* Model.xcdatamodel */,
 			);
-			currentVersion = E76340CF1F7C38790094C989 /* Model.xcdatamodel */;
+			currentVersion = E7C6EB261F7D901E00D5A2C1 /* Model 2.xcdatamodel */;
 			path = Model.xcdatamodeld;
 			sourceTree = "<group>";
+			usesTabs = 0;
 			versionGroupType = wrapper.xcdatamodel;
 		};
 /* End XCVersionGroup section */
